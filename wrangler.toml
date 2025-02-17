@@ -1,0 +1,8 @@
+name = "batikakao"  # 프로젝트 이름
+type = "javascript"
+
+account_id = "e00cb78622e6e71d6f64a4a99a719bff"  # Cloudflare 계정 ID
+workers_dev = true  # 개발 환경에서 실행할지 여부
+
+# 엔트리 포인트 설정 (파일 이름 확인!)
+main = "./index.js"
